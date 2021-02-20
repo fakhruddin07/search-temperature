@@ -1,2 +1,1 @@
-# seaarch-city-temperature
-# temperature-with-api
+# search-temperature
